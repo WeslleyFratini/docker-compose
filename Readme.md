@@ -4,4 +4,4 @@
 
 - Clone esse repositório;
 - Instale as dependências: `yarn` ou `npm install`;
-- Execute docker-compose up
+- Execute `docker-compose up`
